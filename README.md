@@ -1,5 +1,5 @@
 # ML-Healthcare
-Detecting Parkinson's Disease
+Detecting Parkinson's Disease and Chronic Kidney Disease
 
 This healthcare project is about detecting parkinson's disease
 
@@ -14,3 +14,4 @@ Following steps were followed in project:
   - feature engineering/ feature selection
   - model building
   - model evaluation
+
